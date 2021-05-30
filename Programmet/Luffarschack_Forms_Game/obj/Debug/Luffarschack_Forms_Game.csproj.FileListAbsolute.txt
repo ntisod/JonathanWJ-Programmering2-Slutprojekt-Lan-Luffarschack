@@ -1,0 +1,10 @@
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\bin\Debug\Luffarschack_Forms_Game.exe.config
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\bin\Debug\Luffarschack_Forms_Game.exe
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\bin\Debug\Luffarschack_Forms_Game.pdb
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.Form1.resources
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.Game.resources
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.Properties.Resources.resources
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.csproj.GenerateResource.cache
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.csproj.CoreCompileInputs.cache
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.exe
+D:\Skolan\Slutprojekt Programmering\LuffarschackFormsGame\Luffarschack_Forms_Game\obj\Debug\Luffarschack_Forms_Game.pdb
